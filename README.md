@@ -10,9 +10,10 @@ Welcome to the Weather Station application! This web app allows users to check t
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+
 - JavaScript
+- - HTML5
+- CSS3
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
 ## Getting Started
